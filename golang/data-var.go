@@ -38,5 +38,4 @@ func main() {// 建立 main 函式，程式的進入點
 	// rune
 	var a rune = 'a'
 	fmt.Println(a)
-
 }
